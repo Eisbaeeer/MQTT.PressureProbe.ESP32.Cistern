@@ -1,3 +1,5 @@
+![build from source](https://github.com/Eisbaeeer/MQTT.PressureProbe.ESP32.Cistern/actions/workflows/release.yaml/badge.svg)
+
 ![Logo](pics/Display.jpg)
 
 # ESP32-C3 Battery Powered MQTT Pressure Probe
