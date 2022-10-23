@@ -1,4 +1,4 @@
-![build from source](https://github.com/Eisbaeeer/MQTT.PressureProbe.ESP32.Cistern/actions/workflows/release.yaml/badge.svg)
+![build from source](https://github.com/Eisbaeeer/MQTT.PressureProbe.ESP32.Cistern/actions/workflows/release.yml/badge.svg)
 
 ![Logo](pics/Display.jpg)
 
