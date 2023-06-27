@@ -4,8 +4,8 @@
 #undef DEBUG_MSG
 #define DEBUG_MSG
 
-#define WIFI_SSID "TuxNet"
-#define WIFI_PASS "sueddeutscheq"
+#define WIFI_SSID "your_ssid"
+#define WIFI_PASS "your_secret"
 
 // your static ip configuration
 #define IP_HOST    { 192, 168,   1, 211 }
